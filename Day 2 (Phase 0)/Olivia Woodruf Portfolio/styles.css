@@ -1,0 +1,36 @@
+table{
+    border: 5px solid black;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+td, th{
+    border: 1px solid black;
+}
+
+th{
+    background-color: cornflowerblue;
+    color: whitesmoke;
+}
+
+.title{
+    text-align: center;
+}
+
+h2{
+    font-family: Helvetica;
+    color: blueviolet;
+}
+
+h1{
+    font-family: sans-serif;
+    color: royalblue;
+}
+
+#col1{
+    background-color: wheat;
+}
+
+body{
+    background-color:silver;
+}
